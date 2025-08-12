@@ -29,7 +29,7 @@ I love blending **backend engineering** with **AI integrations** to create power
 
 **Databases & Tools**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,linux,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,git,github,html,css,javascript" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ I love blending **backend engineering** with **AI integrations** to create power
 ---
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/Aprampreet/Aprampreet/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aprampreet/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
