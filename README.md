@@ -1,50 +1,70 @@
-<!-- Profile README -->
-<!-- Replace YOURUSERNAME and your links -->
-
-<!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&width=800&lines=Hey+there!+I'm+Aprampreet+Singh;Full+Stack+Developer+%26+AI+Enthusiast;Building+cool+AI-powered+projects;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Apram+Judge!;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🚀 About Me
-- 💻 Full Stack Developer (Django + React)
-- 🤖 AI Integrations, LLM-based Apps
-- 📊 Data Analytics (Python, Pandas, NumPy, Matplotlib)
-- 🎯 Goal: FAANG Internship by 2026  
-- 🛠 Currently polishing GitHub & portfolio
+## 🚀 About Me  
+- 🎓 Second-year Computer Science Student  
+- 💻 Passionate about **Full Stack Development** & **AI-powered apps**  
+- 🛠 Skilled in **Django**, **React**, **PostgreSQL**, **Redis**, **Celery**  
+- 🎯 Goal: **FAANG Internship** by mid-3rd year & **1 solid internship** by end of 2025  
+- 🌱 Currently exploring **Machine Learning** & **LLM integrations**  
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind,postgresql,redis,html,css,git,github,docker,linux" />
-</p>
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprampreet&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aprampreet&theme=radical" alt="GitHub streak" height="160"/>
-</p>
+## 📌 Featured Projects
+
+- **[Docmate](https://github.com/username/docmate)**  
+  🏥 AI-powered doctor listing & appointment system with **OCR** & **Specialization Matching**  
+  Tech: Django, React, Redis, Celery, GPT Integration
+
+- **YouTube Short Generator**  
+  🎬 Auto-generate vertical shorts with filters, AI subtitles, and style customization  
+  Tech: Django-Ninja, FFmpeg, Whisper, React
 
 ---
 
-## 🌱 Currently Learning
-- **Machine Learning** (Scikit-learn, NLP, Computer Vision)
-- **System Design** for large-scale apps
-- **Open Source Contribution** workflow
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=username&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Aprampreet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aprampreet8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🌐 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  **_"Code is like humor. When you have to explain it, it’s bad."_**
+  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+</div>
