@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C4FF&width=800&center=true&vCenter=true&lines=Hey+there!+I'm+Aprampreet+Singh;Full+Stack+Developer+%26+AI+Enthusiast;Crafting+Smart+and+Scalable+Solutions;Open+Source+Contributor+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C4FF&width=800&center=true&vCenter=true&lines=Hey+there%2C+I'm+Aprampreet+Singh!;Full+Stack+Developer+%26+AI+Enthusiast;Crafting+Smart+and+Scalable+Solutions;Open+Source+Contributor+🚀" alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,11 +12,11 @@
 Hi! I’m **Aprampreet Singh**, a passionate **Full Stack Developer** with a knack for building clean, scalable, and user-focused web applications.  
 I love blending **backend engineering** with **AI integrations** to create powerful, real-world solutions.  
 
-- 💻 Skilled in **Django**, **React**, and **PostgreSQL**  
-- 🤖 Experienced in **LLM-based Apps**, **NLP**, and AI-powered features  
-- 📊 Hands-on with **Data Analytics** (Pandas, NumPy, Matplotlib)  
-- 🎯 **Goal:** Land a **FAANG internship by 2026** and one impactful internship by end of 2025  
-- 🛠 Currently **polishing my GitHub, portfolio, and real-world project portfolio**  
+- 🎓 Second-year Computer Science student with strong hands-on experience  
+- 💻 Passionate about building robust **Full Stack Applications** and **AI-powered solutions**  
+- 🛠 Proficient in **Django**, **React**, **PostgreSQL**, **Redis**, and **Celery**  
+- 🔍 Constantly learning and improving skills in **Machine Learning** and **Large Language Models (LLMs)**  
+- 🚀 Dedicated to delivering clean, scalable, and impactful software projects  
 
 ---
 
@@ -24,7 +24,7 @@ I love blending **backend engineering** with **AI integrations** to create power
 
 **Languages & Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind,fastapi" />
 </p>
 
 **Databases & Tools**  
