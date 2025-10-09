@@ -1,6 +1,4 @@
-<!-- Profile README -->
 
-<!-- Animated Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C4FF&width=800&center=true&vCenter=true&lines=Hey+there%2C+I'm+Aprampreet+Singh!;Full+Stack+Developer+%26+AI+Enthusiast;Crafting+Smart+and+Scalable+Solutions;Open+Source+Contributor+🚀" alt="Typing SVG" />
 </h1>
@@ -24,7 +22,7 @@ I love blending **backend engineering** with **AI integrations** to create power
 
 **Languages & Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,tailwind,fastapi" />
 </p>
 
 **Databases & Tools**  
