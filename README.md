@@ -47,15 +47,16 @@ I love blending **backend engineering** with **AI integrations** to create power
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprampreet&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aprampreet&theme=tokyonight&hide_border=true" height="160" />
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aprampreet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Aprampreet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
 
 ## 🌱 Currently Learning  
 
-- **Machine Learning**: Scikit-learn, NLP, Computer Vision  
 - **System Design**: Building scalable architectures for large-scale applications  
 - **Open Source**: Contributing to projects that solve real-world problems  
 
