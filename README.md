@@ -1,133 +1,93 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Aprampreet+Singh;Full+Stack+Engineer;AI+Systems+Architect;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Aprampreet+Singh;Full+Stack+Engineer;AI+Systems+Architect;Building+Scalable+Intelligent+Systems&random=false" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Distributed_Systems-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialty-AI_Automation-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building_for_Scale-success?style=flat-square" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aprampreet&label=SYSTEM_TRAFFIC&color=06B6D4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Aprampreet?label=NETWORK&style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Aprampreet?label=CONTRIBUTIONS&style=flat-square&color=0e75b6" />
+</p>
 
-<img src="https://img.shields.io/badge/FOCUS-Distributed_Systems-06B6D4?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/SPECIALTY-AI_Automation-0e75b6?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/STATUS-Building_for_Scale-22c55e?style=flat-square&labelColor=0a0a0a" />
+---
 
-</div>
+### Technical Brief
+I am a Computer Science student and **AI Systems Architect** specialized in bridging the gap between complex AI models and production-ready backend infrastructure. I don't just "use" LLMs; I build the **asynchronous pipelines, caching layers, and media processing engines** that make them viable at scale.
 
-<br/>
+- **Currently:** Architecting autonomous agent workflows and high-throughput media pipelines.
+- **Engineering Philosophy:** *Code is a liability; architecture is the asset.* I prioritize modularity, observability, and strict type safety.
+- **Learning:** High-performance computing with C++ and GPU kernel optimization.
 
-```
-> whoami
-Computer Science student & AI Systems Architect.
-I build the asynchronous pipelines, caching layers, and media
-processing engines that make LLMs viable in production —
-not just API calls wrapped in a UI.
-```
+---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### Technical Ecosystem
 
-**Currently**
-Architecting autonomous agent workflows and high-throughput media pipelines.
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Languages** | `Python` `JavaScript (ES6+)` `C++` `TypeScript` |
+| **Intelligence** | `OpenAI API` `LangChain` `Whisper` `OpenCV` `HuggingFace` |
+| **Backend & Ops** | `Django` `FastAPI` `PostgreSQL` `Redis` `Docker` |
+| **Async & Realtime** | `Celery` `RabbitMQ` `WebSockets` `FFmpeg` |
+| **Frontend/UI** | `Next.js` `React` `TailwindCSS` `Framer Motion` |
 
-</td>
-<td valign="top" width="50%">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,django,fastapi,postgres,redis,docker,nextjs,react,tailwind,github,vercel" />
+</p>
 
-**Philosophy**
-Code is a liability; architecture is the asset. Modularity, observability, strict type safety.
+---
 
-</td>
-</tr>
-</table>
+### High-Impact Projects
 
-<div align="center">
+#### Docmate | *AI Healthcare Orchestrator*
+> **Problem:** Fragmented medical data and slow triage.
+> **Solution:** A scalable Django-based platform utilizing intelligent agents for medical report parsing and patient-doctor matching.
+- **Deep Tech:** Implemented **Redis-backed caching** for LLM responses to reduce latency by 40%.
+- **Stack:** Django, Celery, GPT-4, PostgreSQL.
 
-`Learning → High-performance computing with C++ and GPU kernel optimization`
+#### AutoShorts | *Automated Media Pipeline*
+> **Problem:** Manual video editing for social media is time-expensive.
+> **Solution:** An end-to-end automation engine that converts long-form content into viral shorts.
+- **Deep Tech:** Built a custom **FFmpeg filter pipeline** and used **Whisper** for timestamp-accurate subtitle injection via ASS files.
+- **Stack:** Python, OpenCV, FFmpeg, Redis, Celery.
 
-</div>
+#### Exam Prep AI | *Adaptive Learning Engine*
+> **Problem:** Static study materials don't account for individual knowledge gaps.
+> **Solution:** An AI platform that generates structured revision paths based on user performance.
+- **Deep Tech:** Engineered a **context-aware RAG (Retrieval-Augmented Generation)** system to provide highly accurate explanations.
 
-<br/>
+---
 
-## Technical Ecosystem
+### System Analytics
 
-<table>
-<tr><th align="left" width="160">Layer</th><th align="left">Stack</th></tr>
-<tr><td><b>Core Languages</b></td><td><code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>C++</code></td></tr>
-<tr><td><b>Intelligence</b></td><td><code>OpenAI API</code> <code>LangChain</code> <code>Whisper</code> <code>OpenCV</code> <code>HuggingFace</code></td></tr>
-<tr><td><b>Backend & Ops</b></td><td><code>Django</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></td></tr>
-<tr><td><b>Async & Realtime</b></td><td><code>Celery</code> <code>RabbitMQ</code> <code>WebSockets</code> <code>FFmpeg</code></td></tr>
-<tr><td><b>Frontend</b></td><td><code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>Framer Motion</code></td></tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aprampreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aprampreet&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,django,fastapi,postgres,redis,docker,nextjs,react,tailwind,github,vercel" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprampreet&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-<br/>
+---
 
-## Selected Work
+### Transmission
+<p align="center">
+  <a href="https://aprampreet-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Aprampreet">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aprampreet8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Docmate
-**AI Healthcare Orchestrator**
-
-Fragmented medical data and slow triage, solved with a Django platform using intelligent agents for report parsing and patient-doctor matching.
-
-Redis-backed LLM response caching cut latency by **40%**.
-
-`Django` `Celery` `GPT-4` `PostgreSQL`
-
-</td>
-<td width="33%" valign="top">
-
-### AutoShorts
-**Automated Media Pipeline**
-
-End-to-end engine converting long-form video into short-form content, eliminating manual editing.
-
-Custom FFmpeg filter pipeline with Whisper-driven, timestamp-accurate subtitle injection via ASS files.
-
-`Python` `OpenCV` `FFmpeg` `Celery`
-
-</td>
-<td width="33%" valign="top">
-
-### Exam Prep AI
-**Adaptive Learning Engine**
-
-Static study material replaced with revision paths generated from individual performance data.
-
-Context-aware RAG system delivers grounded, accurate explanations on demand.
-
-`Python` `RAG` `LangChain`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## System Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aprampreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aprampreet&theme=tokyonight&hide_border=true&background=0a0a0a" height="170" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprampreet&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a0a" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://aprampreet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/Aprampreet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:aprampreet8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<code><strong>Precision over noise. Systems over scripts.</strong></code>
-
-</div>
+<p align="center">
+  <code><strong>Precision over noise. Systems over scripts.</strong></code>
+</p>
